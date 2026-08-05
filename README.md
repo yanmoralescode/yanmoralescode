@@ -12,10 +12,12 @@ My goal is to become a Software Engineer, contribute to meaningful projects and 
 
 ---
 
-## 💡 Languages I Know
+## 💡 Languages ​​I've worked with
 
 - C
 - C++
+- TypeScript
 - JavaScript
+- React
 - HTML
 - CSS
