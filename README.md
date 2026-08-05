@@ -14,8 +14,8 @@ My goal is to become a Software Engineer, contribute to meaningful projects and 
 
 ## 💡 Languages I Know
 
+- C
 - C++
-- TypeScript
 - JavaScript
 - HTML
 - CSS
