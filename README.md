@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Yan Luiz
+# 👋 Hey! I'm Yan
 
 Welcome to my GitHub profile!
 
