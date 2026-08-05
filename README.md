@@ -12,7 +12,7 @@ My goal is to become a Software Engineer, contribute to meaningful projects and 
 
 ---
 
-## 💡 Languages ​​I've worked with
+## 💡 Languages/Tools ​​I've worked with
 
 - C
 - C++
@@ -21,3 +21,5 @@ My goal is to become a Software Engineer, contribute to meaningful projects and 
 - React
 - HTML
 - CSS
+- Linux
+- Git
