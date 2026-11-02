@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Yan
+# Hey! I'm Yan
 
 Welcome to my GitHub profile!
 
