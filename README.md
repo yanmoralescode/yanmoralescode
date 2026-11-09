@@ -1,7 +1,3 @@
-# Hey! I'm Yan
-
-Welcome to my GitHub profile!
-
 ## 💻 About Me
 
 I'm an Analysis and Systems Development (ADS) student from Brazil, passionate about software engineering and building modern applications.
