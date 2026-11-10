@@ -1,5 +1,3 @@
 ## 💻 About Me
 
-I'm an Analysis and Systems Development (ADS) student from Brazil, passionate about software engineering and building applications.
-
-I like to transform my ideas into functional programs.
+i'm an analysis and systems development (ADS) student from brazil, passionate about software engineering and building applications.
